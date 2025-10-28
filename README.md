@@ -14,8 +14,6 @@
 - Persistence
 
 
-
-
  
 ## Value Proposition  
 

@@ -7,7 +7,7 @@
 - Trusted identity
 - Deployment
 - Configuration
-- Scaling
+- Scaling 
 - Fault-tolerance
 - Checkpointing
 - Discovery of agents and tools

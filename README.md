@@ -13,7 +13,7 @@
 - Discovery of agents and tools
 - Persistence
 
-
+ 
  
 ## Value Proposition  
 

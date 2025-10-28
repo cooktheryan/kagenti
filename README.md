@@ -8,7 +8,7 @@
 - Deployment
 - Configuration
 - Scaling 
-- Fault-tolerance
+- Fault-tolerance 
 - Checkpointing
 - Discovery of agents and tools
 - Persistence

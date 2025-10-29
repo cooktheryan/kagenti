@@ -7,13 +7,15 @@
 - Trusted identity
 - Deployment
 - Configuration
-- Scaling
-- Fault-tolerance
+- Scaling 
+- Fault-tolerance 
 - Checkpointing
 - Discovery of agents and tools
 - Persistence
 
-## Value Proposition
+  
+    
+## Value Proposition  
 
 Despite the extensive variety of frameworks available for developing agent-based applications, there is a distinct lack of standardized methods for deploying and operating agent code in production environments, as well as for exposing it through a standardized API. Agents are adept at reasoning, planning, and interacting with various tools, but their full potential can be limited by these deployment challenges. **Kagenti** addresses this gap by enhancing existing agent frameworks with the following key components:
 
